@@ -7,7 +7,10 @@ just been liquidated, to /output/entry.txt.
 The fortune opens with the classic cookie promise, then breaks it: the
 great fortune awaiting the trader is the very one they just lost, and the
 oracular advice collapses into checking the couch cushions. Fortune voice,
-trading loss, rueful and warm, with a surprising last word.
+trading loss, rueful and warm, with a surprising last word. The joke is
+aimed at the loss itself, not at the trader: the cookie promises wealth,
+admits the wealth is already gone, and still tries to help — which is
+what makes a liquidated trader laugh instead of cry.
 """
 
 import os
